@@ -1,6 +1,8 @@
 Crutches
 =======
 
+[![Join the chat at https://gitter.im/knrz/crutches](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/knrz/crutches?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The start of an Elixir ~~ripoff~~ port to the [ActiveSupport Ruby gem](https://github.com/rails/rails/tree/master/activesupport).
 
 ### New to Elixir, and coming from Ruby?
